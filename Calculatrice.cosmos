@@ -6,6 +6,7 @@ Description: Calculatrice
 Voici les ordres du programme Calculatrice  :
 
 	Effacer l'écran.
+	Afficher "Ta calculette a été hackée !\n"
 	Créer une zone mémoire nommée #touchePressee avec le texte "vide".
 	
 	Répéter tant que #touchePressee est différente de "Esc"
